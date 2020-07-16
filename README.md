@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a src="http://chengsen.ren"><font style="color:rgb(247, 110, 99)">ChengSen</font></a> ! 👋. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p> Hi, I'm <a src="http://chengsen.ren"><font style="color:rgb(247, 110, 99)">ChengSen</font></a> ! 👋. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
 [![GitHub chengsen](https://img.shields.io/github/followers/chengsen?label=follow&style=social)](https://github.com/chengsen)
 ![](https://visitor-badge.glitch.me/badge?page_id=chengsen)
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ChengSen Github Stats](https://github-readme-stats.vercel.app/api?username=chengsen&show_icons=true&title_color=FF847A&icon_color=FF847A&text_color=FF847A&bg_color=FFF9F9)
+![ChengSen Github Stats](https://github-readme-stats.vercel.app/api?username=chengsen&show_icons=true&title_color=FF847A&icon_color=FF847A&text_color=FF847A&bg_color=fff)
