@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ChengSen Github Stats](https://github-readme-stats.vercel.app/api?username=chengsen&show_icons=true&title_color=F76E63&icon_color=F76E63&text_color=F76E63&bg_color=fff)
+![ChengSen Github Stats](https://github-readme-stats.vercel.app/api?username=chengsen&show_icons=true&title_color=F76E63&icon_color=F76E63&text_color=000&bg_color=fff)
