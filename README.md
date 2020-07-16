@@ -12,7 +12,7 @@
   </samp>
 </p>
 
-Faster Mirror in China : [Gitee ChengSen](gitee.com/chengsen)
+Faster Mirror in China : [Gitee ChengSen](https://www.gitee.com/chengsen)
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
