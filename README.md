@@ -1,7 +1,7 @@
 <h2> Hi, I'm ChengSen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 [![GitHub chengsen](https://img.shields.io/github/followers/chengsen?label=follow&style=social)](https://github.com/chengsen)
-[![zhihu-shield]][zhihu](zhihu.com/people/renchengsen)
+[![zhihu-shield](zhihu.com/people/renchengsen)][zhihu]
 
 Here are some ideas to get you started:
 
