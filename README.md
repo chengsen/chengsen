@@ -1,4 +1,4 @@
-<p> Hi, I'm <a src="http://chengsen.ren"><font style="color:rgb(247, 110, 99)">ChengSen</font></a> ! 👋. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
+<p> Hi, I'm <a src="http://chengsen.ren" style="color:rgb(247, 110, 99)">ChengSen</a> ! 👋. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
 [![GitHub chengsen](https://img.shields.io/github/followers/chengsen?label=follow&style=social)](https://github.com/chengsen)
 ![](https://visitor-badge.glitch.me/badge?page_id=chengsen)
