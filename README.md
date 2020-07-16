@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm <a href="http://chengsen.ren" style="color:rgb(247, 110, 99)"><em>ChengSen</em></a> :wave:
+    I'm <a href="http://chengsen.ren"><em>ChengSen.Ren</em></a> :wave:
     <br>
     I am a Master student of Computer Science (Artificial intelligence & Big data)
     <br>
