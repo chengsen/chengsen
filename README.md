@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="http://qiniu.chengsen.ren/picgo/20200728152752.gif" width="30%">
   <br><br>
   <samp>
     I'm <a href="http://chengsen.ren"><em>ChengSen.Ren</em></a> :wave:
@@ -8,7 +8,7 @@
     <br>
     My research field is the Application and Optimization of Graph Machine Learning :grin:
     <br>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+    <img src="http://qiniu.chengsen.ren/picgo/20200728152841.gif" width="50">
   </samp>
 </p>
 
